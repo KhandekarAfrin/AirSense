@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
+data/air_quality_data.zip
+.DS_Store
+Thumbs.db
